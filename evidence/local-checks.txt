@@ -1,0 +1,7 @@
+Local development checks rerun October 27, 2026 by Codex. These are not live GitHub Pages tests or real-device screenshots.
+
+PASS rooms-integration-test.cjs: map unlock/entry, room-specific picker, create orchid, atmosphere, vent, room name, desert hanging plant, room data preservation, separate decor, pagination, plant history, floor-position persistence, empty filter, species picker/search, nickname/purpose, optional mood before/after without extra coins, timeline filtering/revisit, highlighted move and saved placement.
+PASS growth-journal-test.cjs: metadata, optional moods, growth stages, real milestone dates, stable IDs, migration of undated growth, room-specific empty moves and swaps, invalid hanging rejection, neighboring positions, cross-arrangement swap.
+PASS profile-test.cjs: password verification, wrong-password handling, first setup, profile name changes, password changes, untouched garden data, unavailable storage fallback.
+
+Original developer checkout contains the automated scripts. Required live five-test results and a live fix retest have not been recorded.
