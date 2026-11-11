@@ -1,14 +1,14 @@
 # Test Log — Growing Thoughts
 
 **Required test environment:** The published GitHub Pages URL, tested in a private/incognito browser window and on a phone.  
-**Live URL:** [ADD THE REAL GITHUB PAGES URL]  
+**Live URL:** [https://kellynrosso.github.io/ai101-midterm/]  
 **Tester/date/device/browser:** [COMPLETE AFTER TESTING]
 
 Use fictional test writing. The results below are intentionally marked **Not run** until the test is actually performed on the live GitHub Pages site. Record what you saw, whether it passed, and a date/device for each one.
 
 | Test | Steps | Expected | Actual result | Pass/fail |
 | --- | --- | --- | --- | --- |
-| Normal input | Create a local profile; choose a topic; enter a made-up reflection and a small next step; press **Plant this thought**. | The entry saves, the plant grows by one stage (up to seven), and the success screen appears. | Not yet observed on GitHub Pages. | Not run |
+| Normal input | Create a local profile; choose a topic; enter a made-up reflection and a small next step; press **Plant this thought**. | The entry saves, the plant grows by one stage (up to seven), and the success screen appears. | Reflection submitted successfully. Success screen appeared, virtual plant was displayed, and 10 Leaf Coins were awarded. | Pass |
 | Empty/invalid input | Leave reflection and next-step fields empty, then press **Plant this thought**. | A helpful error appears and no reflection or reward is added. | Not yet observed on GitHub Pages. | Not run |
 | Repeated use | Submit two different fictional reflections for the same plant, then tap it in **My plant shelves**. | Both dated entries appear; progress increases until stage seven, and later entries can still be saved. | Not yet observed on GitHub Pages. | Not run |
 | Keyboard access | Using Tab, Shift+Tab, Enter and Space, navigate the profile, choose a prompt, fill the fields, submit, and open a plant. | Controls can be reached and operated by keyboard with visible focus. | Not yet observed on GitHub Pages. | Not run |
