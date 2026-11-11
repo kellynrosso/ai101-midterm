@@ -20,3 +20,8 @@ Use fictional test writing. The results below are intentionally marked **Not run
 **Fix:** Updated the handler to find the plant's new arrangement and show it after the placement changes.  
 **Local retest:** The DOM simulation passed when rerun during development and passed again on October 27. See `evidence/local-checks.txt`. This is not a live GitHub Pages or phone test.  
 **Required live retest:** [NOT RUN — after publishing, change a plant's display position and record what happened on the live site.]
+### Final live website retest — November 11, 2026
+
+After merging pull request #2, I opened the published Growing Thoughts website in a Chrome Incognito window and created a new test profile. I opened the Growth Timeline without adding any reflections. The improved empty-state message appeared successfully.
+
+**Result: PASS**
