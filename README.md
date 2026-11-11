@@ -4,11 +4,10 @@
 **Audience:** Students who want a gentle, manageable way to start journaling and reflect on their feelings.  
 **Purpose:** Help users put a thought into words, identify one small next step, and see a virtual plant grow as they continue reflecting.
 
-**GitHub Pages link:** [ADD YOUR LIVE GITHUB PAGES URL AFTER PUBLISHING]  
-**Repository link:** [ADD YOUR PUBLIC GITHUB REPOSITORY URL AFTER CREATING IT]  
+GitHub Pages link: https://kellynrosso.github.io/ai101-midterm/
+Repository link: https://github.com/kellynrosso/ai101-midterm
 **Current prototype:** https://thought-greenhouse.exactseed7.chatgpt.site
 
-The current prototype is a separate hosted version; it does not fulfill the assignment's GitHub Pages publishing requirement.
 
 ## How to use it
 
